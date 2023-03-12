@@ -1,0 +1,32 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+    opacity: 0.9;
+    color: black;
+    font-size: large;
+    text-shadow:rgba(1,13,0, 1.1) -1px 0;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url(".idea/images/Churrasco-barato.jpg");
+    background-size: cover;
+}
+
+input {
+    display: block;
+    width: 98%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    text-shadow:rgba(1,13,0, 1.1) -1px 0;
+    font-size: 40px;
+
+}
